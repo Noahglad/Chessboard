@@ -11,7 +11,8 @@ body {
   display: flex;
   flex-direction: column;
 margin: 0 auto;
-
+margin-top: 150px;
+align-items: center;
 
 }
 .white {
