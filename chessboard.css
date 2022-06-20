@@ -3,10 +3,10 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .chessboard {
-  background-color: aquamarine;
   width: 480px;
   height: 480px;
-  border: 2px solid aqua;
+  border: 1px solid #c0c0c0;
+  box-shadow: 2px 2px ;
   border-radius: 4px;
   display: flex;
   flex-direction: column;
